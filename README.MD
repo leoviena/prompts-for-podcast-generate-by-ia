@@ -66,4 +66,18 @@ Siga os passos abaixo para criar o seu próprio podcast com inteligência artifi
 
 <p>
     <img 
-      align="
+      align="left" 
+      width="80" 
+      src="https://avatars.githubusercontent.com/u/144079804?v=4"
+    />
+    <p>&nbsp;&nbsp;&nbsp;Leonardo Davi Ruiz Viena<br>
+    &nbsp;&nbsp;&nbsp;<a href="https://github.com/leoviena">GitHub</a>
+    &nbsp;|&nbsp;<a href="https://www.linkedin.com/in/leonardoviena/">LinkedIn</a>
+    </p>
+</p>
+
+<br/><br/>
+
+---
+
+⌨️ com 💙 por [leoviena](https://github.com/leoviena)
