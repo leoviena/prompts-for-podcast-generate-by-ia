@@ -13,105 +13,57 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/\ud83d\udd34_LIVE_CODE-FF5E72" 
-        alt="\ud83d\udd34 LIVE CODE">
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+        alt="🔴 LIVE CODE">
 </a>
 </p>
 
 <p align="center">
-    \ud83c\udfb7 Preview do podcast
+    🎧 Preview do Podcast
 </p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
----
+# 🎙️ Projeto: Podcast Gerado por I.A.s
 
-# \ud83c\udfb9 Projeto: Podcast Gerado por I.A.s – *JSCast: Código em Voz*
+> Inspirado no projeto da [DIO](https://dio.me), este repositório foi criado como parte do desafio prático de geração de conteúdo automatizado utilizando inteligência artificial.
 
-Este repositório foi criado como parte do desafio proposto pela [DIO](https://dio.me), onde a missão era montar um podcast completo utilizando ferramentas de inteligência artificial. Aqui você encontra o roteiro, o áudio gerado, os prompts utilizados e as ferramentas que fizeram tudo acontecer.
+Este projeto mostra como é possível, com ferramentas de IA, criar um podcast completo — do roteiro à narração — sem gravar um único áudio com a própria voz.
 
-> \ud83d\udca1 A proposta era simples: **roteirizar, sintetizar, ilustrar e editar um podcast sem gravar uma única fala manualmente** – tudo com IAs.
+## 💻 Tecnologias Utilizadas
 
----
+- [ChatGPT](https://chat.openai.com/) – geração de roteiro
+- [MidJourney](https://www.midjourney.com/app/) – criação de capa
+- [ElevenLabs](https://beta.elevenlabs.io/) – sintetização de voz
+- [Capcut](https://www.capcut.com/pt-br/) – edição de áudio
 
-## \ud83d\ude80 Tecnologias utilizadas
+## ✨ Etapas Realizadas
 
-- [ChatGPT](https://chat.openai.com/) – Criação de roteiros e prompts
-- [ElevenLabs](https://beta.elevenlabs.io/) – Geração de voz sintética
-- [MidJourney](https://www.midjourney.com/app/) – Geração de imagem da capa
-- [CapCut](https://www.capcut.com/pt-br/) – Edição e trilha sonora
+- ✍️ Roteiro criado com base em prompts no ChatGPT
+- 🗣️ Narração gerada com ElevenLabs
+- 🎨 Capa ilustrada com MidJourney
+- 🎧 Áudio editado e finalizado com Capcut
 
----
+## 📚 Materiais e Inspirações
 
-## \u270d\ufe0f Como foi feito?
+- [Live original da DIO](https://www.youtube.com)
+- [Template no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Capcut Editor](https://www.capcut.com/editor?from_page=landing_page)
 
-- \u270f\ufe0f Roteiro criado a partir de prompts no ChatGPT
-- \ud83d\udd0a Voz gerada no ElevenLabs com entonação natural
-- \ud83c\udfa8 Imagem de capa gerada via MidJourney
-- \ud83c\udfb7 Edição final no CapCut com trilha e cortes
+## 🛠️ Como reproduzir este projeto
 
----
+Siga os passos abaixo para criar o seu próprio podcast com inteligência artificial:
 
-## \ud83d\udcda Materiais e links úteis
+1. 🤖 Gere o roteiro com base nos prompts sugeridos no Notion.
+2. 🗣️ Copie o roteiro e use o [ElevenLabs](https://beta.elevenlabs.io/) para gerar a voz narrada.
+3. 🎨 Crie uma imagem de capa no MidJourney com prompts criativos.
+4. 🎧 Edite o áudio no Capcut (ou software de sua preferência).
+5. 💾 Salve seu podcast final na pasta `output/` e compartilhe!
 
-- \ud83c\udfa5 [Link da live da DIO (em breve)](https://www.youtube.com)
-- \ud83d\udcdc [Notion Template com os prompts](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- \ud83c\udfad [Editor de áudio CapCut](https://www.capcut.com/editor)
-
----
-
-## \ud83d\udee0\ufe0f Como reproduzir esse projeto?
-
-1. Clone este repositório
-2. Acesse o template Notion com os prompts
-3. Siga o passo a passo:
-   - Gere o roteiro no ChatGPT
-   - Copie e cole o texto no ElevenLabs para gerar o áudio
-   - Use o MidJourney para criar a capa
-   - Edite tudo no CapCut
-
-> O áudio final pode ser exportado em `.mp3` e colocado dentro da pasta `output/`.
-
----
-
-## \ud83e\udde0 Inspiração
-
-Este projeto foi inspirado na live da DIO com o expert Felipe Aguiar, adaptado e customizado por mim com base no conteúdo proposto.
-
----
-
-## \ud83d\udc68\u200d\ud83d\udcbb Autor
+## 👨‍💻 Autor
 
 <p>
     <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/00000000?v=4"
-    />
-    <p>&nbsp;&nbsp;&nbsp;Leonardo Davi Ruiz Viena<br>
-    &nbsp;&nbsp;&nbsp;
-    <a 
-        href="https://github.com/leoviena">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/leonardoviena">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://instagram.com/seuuser">
-        Instagram
-    </a>
-    </p>
-</p>
-
-<br/><br/>
-
----
-
-\u2328\ufe0f com \ud83d\udc9c por [Leonardo Viena](https://github.com/leoviena)
+      align="
