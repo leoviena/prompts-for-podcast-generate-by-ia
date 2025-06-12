@@ -1,10 +1,24 @@
-## 🧠 Prompts
+# 🎙️ Prompt para Geração de Roteiro de Podcast com IA
 
+> Este prompt foi usado no ChatGPT para gerar o roteiro do episódio piloto do podcast **DevQuest — A Ordem dos Desenvolvedores**.
 
-ChatGPT：
+---
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+## 🤖 Prompt:
 
+Você é um roteirista de podcast. Vamos criar um roteiro de um podcast de tecnologia focado em front-end, cujo nome é **DevQuest — A Ordem dos Desenvolvedores**. O público-alvo são iniciantes em front-end.
+
+**Formato do roteiro**:
+- Introdução estilo "Ei Nerd" (Peter Jordan)
+- Curiosidade 1: Fato interessante sobre CSS
+- Curiosidade 2: Ferramenta útil para dev front-end
+- Finalização: leve, divertida, com a assinatura: "Eu sou o Felipão e esse foi o DevQuest dessa semana"
+
+**Regras**:
+- Evite termos técnicos avançados
+- O roteiro não deve ultrapassar 5 minutos de duração
+- Use linguagem clara, didática e amigável
+
+---
+
+Esse prompt foi usado com sucesso no ChatGPT e gerou o conteúdo narrado do episódio piloto disponível na pasta `/output`.
